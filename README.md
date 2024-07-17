@@ -4,7 +4,7 @@
 
 Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://nikkitx123.github.io/e-commerce-site/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,18 +21,15 @@ To run **Glowing** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo
+sudo https://github.com/nikkitx123/e-commerce-site.git
 ```
 
 Windows:
 
 ```bash
-git
+git https://github.com/nikkitx123/e-commerce-site.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
